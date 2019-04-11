@@ -7,7 +7,7 @@ Things I want to read and I have read... Thanks to every author of every single 
 **Status** : In Progress
 **Paper Link** : https://github.com/dmlc/web-data/raw/master/mxnet/paper/mxnet-learningsys.pdf
 
-**2. Horovod - Efficient way to do Distributed Deep Learning
+**2. Horovod - Efficient way to do Distributed Deep Learning**
 **Status** : Not Started
 **Paper Link** : https://arxiv.org/abs/1802.05799
 
