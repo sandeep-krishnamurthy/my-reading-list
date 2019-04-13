@@ -15,7 +15,7 @@ Things I want to read and I have read... Thanks to every author of every single 
 
 **Paper Link** : https://arxiv.org/abs/1802.05799
 
-**3. MLIR by Lattner and TF team **
+**3. MLIR by Lattner and TF team**
 
 **Status**: Not Started
 
