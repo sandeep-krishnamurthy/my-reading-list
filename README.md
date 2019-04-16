@@ -21,7 +21,11 @@ Things I want to read and I have read... Thanks to every author of every single 
 
 **Paper Link** : https://t.co/GWBa35Jq9g?amp=1
 
+**4. TVM - An automated end to end optimizing compiler for deep learning**
 
+**Status** : Not Started
+
+**Paper Link** : https://www.usenix.org/system/files/osdi18-chen.pdf
 
 
 # Books
