@@ -36,3 +36,11 @@ Things I want to read and I have read... Thanks to every author of every single 
 
 **Boook Link** : https://www.amazon.com/Radical-Candor-Kim-Scott/dp/B01KTIEFEE
 
+
+# Courses
+
+**1. Full stack Deep Learning - How to ship AI products**
+
+**Status** : Not Started
+
+**Link** : https://fullstackdeeplearning.com/march2019#
