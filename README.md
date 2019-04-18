@@ -36,6 +36,13 @@ Things I want to read and I have read... Thanks to every author of every single 
 
 **Boook Link** : https://www.amazon.com/Radical-Candor-Kim-Scott/dp/B01KTIEFEE
 
+**2. Profiler of the Future: An inquiry into the Limits of the possible**
+
+**Status** : Not Started
+
+**Book Link** : https://www.amazon.com/Profiles-Future-Inquiry-Limits-Possible/dp/0575402776
+
+
 
 # Courses
 
