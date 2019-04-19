@@ -27,6 +27,16 @@ Things I want to read and I have read... Thanks to every author of every single 
 
 **Paper Link** : https://www.usenix.org/system/files/osdi18-chen.pdf
 
+**5. RDMA/DMA/Infiband and more**
+
+**Status** : Not Started
+
+**Paper Link** :
+
+* RDMA concepts: A presentation from me – old content – (attached)
+* Nice intro to IB: https://www.mellanox.com/pdf/whitepapers/IB_Intro_WP_190.pdf
+* HPC Advisory Council’s intro to IB: https://www.hpcadvisorycouncil.com/pdf/Intro_to_InfiniBand.pdf
+* Ethernet Vs IB: https://www.nextplatform.com/2017/10/30/tug-war-infiniband-ethernet/
 
 # Books
 
