@@ -52,6 +52,11 @@ Things I want to read and I have read... Thanks to every author of every single 
 
 **Book Link** : https://www.amazon.com/Profiles-Future-Inquiry-Limits-Possible/dp/0575402776
 
+**3. Clean Code - A handbook of agile software craftmanship**
+
+**Status** : Not Started
+
+**Book Link** : https://www.amazon.com/Clean-Code-Handbook-Software-Craftsmanship-ebook/dp/B001GSTOAM/
 
 
 # Courses
