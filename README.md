@@ -61,3 +61,12 @@ Things I want to read and I have read... Thanks to every author of every single 
 **Status** : Not Started
 
 **Link** : https://fullstackdeeplearning.com/march2019#
+
+
+# Others
+
+**1. 50 best reading for Engineering Leadership**
+
+**Status** : In Progress
+ 
+ **Link** : https://engineering.videoblocks.com/50-great-reads-for-engineering-leaders-d6a40849e3b9
