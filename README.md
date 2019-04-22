@@ -38,6 +38,12 @@ Things I want to read and I have read... Thanks to every author of every single 
 * HPC Advisory Council’s intro to IB: https://www.hpcadvisorycouncil.com/pdf/Intro_to_InfiniBand.pdf
 * Ethernet Vs IB: https://www.nextplatform.com/2017/10/30/tug-war-infiniband-ethernet/
 
+**6. TensorFuzz: Debugging Neural Networks with Coverage-Guided Fuzzing**
+
+**Status** : In Progress
+
+**Paper Link** : https://arxiv.org/abs/1807.10875
+
 # Books
 
 **1. Radical Candor - Be a kickass boss without losing your humanity**
