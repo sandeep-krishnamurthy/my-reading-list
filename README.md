@@ -84,6 +84,9 @@ Things I want to read and I have read... Thanks to every author of every single 
 
 4. XLA - https://drive.google.com/file/d/1AfNoznbCIejQLErblXF7CV_Wk4cJypuC/view
 
+5. SIL (Swift Intermediate Language) - https://llvm.org/devmtg/2015-10/slides/GroffLattner-SILHighLevelIR.pdf
+
+
 # Others
 
 **1. 50 best reading for Engineering Leadership**
