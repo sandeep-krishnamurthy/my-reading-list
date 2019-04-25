@@ -74,6 +74,16 @@ Things I want to read and I have read... Thanks to every author of every single 
 **Link** : https://fullstackdeeplearning.com/march2019#
 
 
+# Interesting Talks
+
+1. MLIR - https://drive.google.com/file/d/1hUeAJXcAXwz82RXA5VtO5ZoH8cVQhrOK/view
+
+2. TensorRT - https://drive.google.com/file/d/1BJQTlcj40JXVIZa5byMtFab8lls3odyw/view
+
+3. TVM - https://drive.google.com/file/d/1xx8Fj3q71MnFKz1XXG-tdiSUlrAoucru/view
+
+4. XLA - https://drive.google.com/file/d/1AfNoznbCIejQLErblXF7CV_Wk4cJypuC/view
+
 # Others
 
 **1. 50 best reading for Engineering Leadership**
