@@ -44,6 +44,10 @@ Things I want to read and I have read... Thanks to every author of every single 
 
 **Paper Link** : https://arxiv.org/abs/1807.10875
 
+**7. Dynamic Mini-batch SGD for Elastic Distributed Training: Learning in the Limbo of Resources**
+
+**Paper Link** : https://arxiv.org/abs/1904.12043
+
 # Books
 
 **1. Radical Candor - Be a kickass boss without losing your humanity**
