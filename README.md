@@ -48,6 +48,10 @@ Things I want to read and I have read... Thanks to every author of every single 
 
 **Paper Link** : https://arxiv.org/abs/1904.12043
 
+**8. DGL**
+
+**Paper Link** : https://rlgm.github.io/papers/49.pdf
+
 # Books
 
 **1. Radical Candor - Be a kickass boss without losing your humanity**
