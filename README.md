@@ -52,6 +52,10 @@ Things I want to read and I have read... Thanks to every author of every single 
 
 **Paper Link** : https://rlgm.github.io/papers/49.pdf
 
+**9. Relay**
+
+**Paper Link** : https://arxiv.org/pdf/1810.00952.pdf
+
 # Books
 
 **1. Radical Candor - Be a kickass boss without losing your humanity**
